@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of India?",
+        "options": ["A. Mumbai", "B. Delhi", "C. Chennai", "D. Kolkata"],
+        "answer": "B"
+    },
+    {
+        "question": "Which language is mainly used for Python programming?",
+        "options": ["A. English", "B. Java", "C. Python", "D. C++"],
+        "answer": "C"
+    },
+    {
+        "question": "Which symbol is used to start a comment in Python?",
+        "options": ["A. //", "B. #", "C. /*", "D. --"],
+        "answer": "B"
+    },
+    {
+        "question": "How many days are there in a week?",
+        "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+        "answer": "C"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["A. Earth", "B. Venus", "C. Mars", "D. Jupiter"],
+        "answer": "C"
+    },
+    {
+        "question": "What does CPU stand for?",
+        "options": ["A. Central Processing Unit", "B. Computer Power Unit", "C. Central Program Unit", "D. Control Processing Unit"],
+        "answer": "A"
+    },
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["A. function", "B. define", "C. def", "D. func"],
+        "answer": "C"
+    },
+    {
+        "question": "Which data type stores True or False?",
+        "options": ["A. int", "B. bool", "C. float", "D. list"],
+        "answer": "B"
+    },
+    {
+        "question": "How many continents are there?",
+        "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+        "answer": "C"
+    },
+    {
+        "question": "Which file format is commonly used to store structured data?",
+        "options": ["A. JSON", "B. MP3", "C. PNG", "D. JPG"],
+        "answer": "A"
+    }
+]
